@@ -12,7 +12,7 @@
 
 var myName = "Ilhomjon";
 
-myName = 8;
+myName = 8; // changed
 
 let ourName = "CodingCamp";
 
