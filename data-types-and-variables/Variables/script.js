@@ -15,5 +15,3 @@ var myName = "Ilhomjon";
 myName = 8; // changed
 
 let ourName = "CodingCamp";
-
-const pi = 3.14;
